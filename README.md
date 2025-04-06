@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://github.com/thebelgiumdeveloper/thebelgiumdeveloper/blob/main/Untitled.png?raw=true"  />
-</div>
-
-###
-
-<div align="center">
   <a href="www.linkedin.com/in/heitor-barella" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
